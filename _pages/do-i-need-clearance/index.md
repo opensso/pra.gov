@@ -67,4 +67,4 @@ Some information collections are generally not subject to the PRA, including: fe
 
 #### Information at public meetings and online
 
-The discussion and conversation at a public meeting is exempt from PRA clearance. Using interactive meeting tools like public conferences calls, webinars, discussions board and forums, and chat sessions are considered the online equivalent of in-person public meetings and do not need clearance. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+The discussion and conversation at a public meeting is exempt from PRA clearance. Using interactive meeting tools like public conferences calls, webinars, discussions board and forums, and chat sessions are considered the online equivalent of in-person public meetings and do not need clearance.
